@@ -1,6 +1,6 @@
 name: range2
 description: Dart2 compatible python-like range() function implemented using sync*.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/xtyxtyx/range2
 author: xuty <xty50337@hotmail.com>
 

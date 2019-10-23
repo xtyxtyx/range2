@@ -5,4 +5,8 @@ main() {
   print('${range(1, 10,  3)}');
   print('${range(-5, 0)}');
   print('${range(-5, -10, -1)}');
+
+  for (var n in range(1, 10, 2)) {
+    print(n);
+  }
 }
